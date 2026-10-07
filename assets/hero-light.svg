@@ -76,9 +76,9 @@
 <text x="520" y="166" fill="#1a7f37" opacity="0">❯<animate attributeName="opacity" to="1" begin="1.30s" dur=".01s" fill="freeze"/></text>
 <clipPath id="c2"><rect x="539.3" y="148" width="0" height="24"><animate attributeName="width" from="0" to="166" begin="1.30s" dur="0.94s" fill="freeze" calcMode="discrete" values="0;10;19;29;39;48;58;68;77;87;96;106;116;125;135;145;154;164"/></rect></clipPath>
 <text x="539.3" y="166" fill="#1f2328" clip-path="url(#c2)">cat interests.txt</text>
-<text x="520" y="194" fill="#59636e" opacity="0">▸ Agentic AI — LLM agents, tool use, MCP<animate attributeName="opacity" to="1" begin="2.49s" dur=".3s" fill="freeze"/></text>
-<text x="520" y="222" fill="#59636e" opacity="0">▸ Computer vision — detection, perception, 3D<animate attributeName="opacity" to="1" begin="2.71s" dur=".3s" fill="freeze"/></text>
-<text x="520" y="250" fill="#59636e" opacity="0">▸ Learning by building — models from scratch<animate attributeName="opacity" to="1" begin="2.93s" dur=".3s" fill="freeze"/></text>
+<text x="520" y="194" fill="#59636e" opacity="0">▸ Computer vision — training models on images<animate attributeName="opacity" to="1" begin="2.49s" dur=".3s" fill="freeze"/></text>
+<text x="520" y="222" fill="#59636e" opacity="0">▸ Agentic AI — LLM agents, tool use, MCP<animate attributeName="opacity" to="1" begin="2.71s" dur=".3s" fill="freeze"/></text>
+<text x="520" y="250" fill="#59636e" opacity="0">▸ New AI tech — try it, build with it, learn it<animate attributeName="opacity" to="1" begin="2.93s" dur=".3s" fill="freeze"/></text>
 <text x="520" y="278" fill="#1a7f37" opacity="0">❯<animate attributeName="opacity" to="1" begin="3.15s" dur=".01s" fill="freeze"/></text>
 <clipPath id="c6"><rect x="539.3" y="260" width="0" height="24"><animate attributeName="width" from="0" to="118" begin="3.15s" dur="0.66s" fill="freeze" calcMode="discrete" values="0;10;19;29;39;48;58;68;77;87;96;106;116"/></rect></clipPath>
 <text x="539.3" y="278" fill="#1f2328" clip-path="url(#c6)">ls projects/</text>

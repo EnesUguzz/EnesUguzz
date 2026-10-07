@@ -6,20 +6,22 @@
 
 ### About me
 
-I'm an AI / ML engineer from Istanbul. I learn best by building, so this profile is where I work on side projects that push me into areas I want to get better at. I like taking a paper or an idea and making it run end to end, then measuring where it breaks.
+I'm an AI / ML engineer based in Istanbul. AI moves fast and I want to keep up with it, so I use this profile to try new models and tools by building something with them.
 
-### What I'm into
+I enjoy working with images the most. When you train a vision model, you end up with something you can see and put in front of people.
 
-- **Agentic AI**: LLM agents that plan and use tools, and connecting them to real data through the Model Context Protocol (MCP).
-- **Computer vision**: object detection and perception, from on-device models on a Jetson Nano to vision transformers.
-- **3D from images**: reconstructing 3D objects from one or a few photos. I'm currently training a transformer-based model for this from scratch on a single GPU.
+### What I work on
+
+- **Computer vision**: training models on image data, from object detection to transformer-based vision models.
+- **Agentic AI**: LLM agents that plan, call tools, and connect to real data through MCP.
+- **New AI tech**: picking up new models and frameworks as they come out and testing them in small projects.
 
 ### Featured projects
 
 | Project | What it is |
 |---|---|
-| [**image-to-3d-lrm**](https://github.com/EnesUguzz/image-to-3d-lrm) | Transformer LRM that turns 1 or 4 photos into a 3D mesh through a triplane NeRF. Trained from scratch on 12k Objaverse objects. `Python` `PyTorch` |
-| [**masa-oyunlari**](https://github.com/EnesUguzz/masa-oyunlari) | Online Okey 101 with a smart bot. React + Node monorepo with Playwright end-to-end tests. `TypeScript` |
+| [**image-to-3d-lrm**](https://github.com/EnesUguzz/image-to-3d-lrm) | A transformer model trained from scratch to turn photos into 3D objects. A hands-on way to learn how large reconstruction models work. `Python` `PyTorch` |
+| [**masa-oyunlari**](https://github.com/EnesUguzz/masa-oyunlari) | Online Okey 101, the Turkish tile game, with a computer opponent. Built with React and Node. `TypeScript` |
 
 ### Tech
 
