@@ -20,6 +20,8 @@ I enjoy working with images the most. When you train a vision model, you end up 
 
 | Project | What it is |
 |---|---|
+| [**paperlens**](https://github.com/EnesUguzz/paperlens) | Agentic RAG over scientific papers, running fully on local models. Every design choice is tested with config-driven ablations on the QASPER dataset. `Python` `LangGraph` `Qdrant` |
+| [**sqltune**](https://github.com/EnesUguzz/sqltune) | Fine-tuning a 3B code model for text-to-SQL with QLoRA on one GPU. It gains 6 to 10 points of execution accuracy on BIRD and lands within noise of the 4-bit 7B model. `Python` `PEFT` `vLLM` |
 | [**image-to-3d-lrm**](https://github.com/EnesUguzz/image-to-3d-lrm) | A transformer model trained from scratch to turn photos into 3D objects. A hands-on way to learn how large reconstruction models work. `Python` `PyTorch` |
 | [**masa-oyunlari**](https://github.com/EnesUguzz/masa-oyunlari) | Online Okey 101, the Turkish tile game, with a computer opponent. Built with React and Node. `TypeScript` |
 
